@@ -1,0 +1,45 @@
+.listItems {
+  list-style-type: none;
+}
+
+.timeAccess {
+  font-size: 13px;
+  margin-right: 22px;
+  margin-left: 10px;
+}
+
+.logo {
+  height: 18px;
+  margin-right: 12px;
+}
+
+.title {
+  margin-right: 12px;
+  font-size: 14px;
+}
+
+.domainUrl {
+  color: #64748b;
+  font-size: 13px;
+  margin-right: 10px;
+}
+
+.divControl {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.timeTitleDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.delete {
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
